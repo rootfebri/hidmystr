@@ -2,6 +2,9 @@
 name = "hidmystr"
 version = "0.1.0"
 edition = "2021"
+description = "Hide string at compile time and treat variable value as original at runtime"
+authors = ["rootfebri"]
+license = "MIT OR Apache-2.0"
 
 [lib]
 proc-macro = true
